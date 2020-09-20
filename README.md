@@ -6,11 +6,11 @@ This repo contains a collection of tacky, holiday-themed hackathon logos. These 
 
 There are two main types of designs in this repo. 
 
-Those ending with `-grid.svg` are intended to be mildly remininiscent of the GitHub activity grid. Often, some cells are deleted to spell a phrase (e.g. "Patch" or "Harvest" for October and November). 
+Those ending with `-grid.png` are intended to be mildly remininiscent of the GitHub activity grid. Often, some cells are deleted to spell a phrase (e.g. "Patch" or "Harvest" for October and November). 
 
-Most else ends in `-badge.svg` and is something that I just found entertaining. 
+Most else ends in `-badge.png` and is something that I just found entertaining. 
 
-Within the `svg-final` directory, there is also a file `objects.svg` which includes a lot of the primitive shapes (e.g. pumpkins, Chrstimas lights) that I used to make the logos.
+Within the `svg-final` directory, there is also a file `objects.png` which includes a lot of the primitive shapes (e.g. pumpkins, Chrstimas lights) that I used to make the logos.
 
 ## Contributions Welcome
 
@@ -26,15 +26,15 @@ Right now, the contents of this repo is biased towards holidays and traditions t
 
 See a tool that doesn't quite meet your need? Work on an enhancement instead of starting a new project.
 
-![](svg-final/eggs-badge.svg)
+![](png/eggs-badge.png)
 
-![](svg-final/eggs-grid.svg)
+![](png/eggs-grid.png)
 
 ### April
 
 Tech debt [is not a bad thing](https://changelog.com/podcast/379), but it's an investment that needs to get paid down. Take some time to identify and pay down the accumulated debt in your projects.
 
-![](svg-final/tax-grid.svg)
+![](png/tax-grid.png)
 
 ### May
 
@@ -44,35 +44,35 @@ Tech debt [is not a bad thing](https://changelog.com/podcast/379), but it's an i
 
 Dependencies are great for quick prototyping, but do you really need them all when you launch? Re-evaluate and potentially remediate dependencies in your project. 
 
-![](svg-final/dependencies-badge.svg)
+![](png/dependencies-badge.png)
 
 ### October
 
 Pumpkin patch - code patch. Need I say more?
 
-![](svg-final/patch-grid.svg)
+![](png/patch-grid.png)
 
-![](svg-final/patch-grid-minimal.svg)
+![](png/patch-grid-minimal.png)
 
 ### November
 
 It's time for the fall harvest! If your work isn't on GitHub and optimized for discoverability (README, Description, tags, etc.), harvest them off your hard-drive and bring them into a GitHub repo or org.
 
-![](svg-final/harvest-grid.svg)
+![](png/harvest-grid.png)
 
-![](svg-final/harvest-badge.svg)
+![](png/harvest-badge.png)
 
 ### December
 
 "Doc (deck) the halls" with documentation! 
 
-![](svg-final/holiday-lights-grid.svg)
+![](png/holiday-lights-grid.png)
 
-![](svg-final/ornaments-grid.svg)
+![](png/ornaments-grid.png)
 
 Is your code naughty or nice? You'll never know if you don't have unit tests.
 
-![](svg-final/naughty-nice-badge.svg)
+![](png/naughty-nice-badge.png)
 
 ### Thanks
 
