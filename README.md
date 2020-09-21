@@ -20,6 +20,10 @@ Right now, the contents of this repo is biased towards holidays and traditions t
 
 ### January
 
+New year, new resolutions, old tools. Take some time to come together as a team *without* building and simply make a plan. Think about where priorities overlap and what can be built collaboratively or re-used instead of reinvented.
+
+![](png/plan-grid.png)
+
 ### February
 
 ### March
