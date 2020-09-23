@@ -26,6 +26,12 @@ New year, new resolutions, old tools. Take some time to come together as a team 
 
 ### February
 
+When codebases have few contributors or maintainers, they are more susceptible to going stale. Take the opportunity to do some "matchmaking" between orphaned packages and potential maintainers or, alternatively, help new maintainers get into relationships with existing projects.
+
+![](png/hearts-grid.png)
+
+![](png/heart-badge.png)
+
 ### March
 
 See a tool that doesn't quite meet your need? Work on an enhancement instead of starting a new project.
