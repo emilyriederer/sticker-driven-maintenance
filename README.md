@@ -46,15 +46,19 @@ Tech debt [is not a bad thing](https://changelog.com/podcast/379), but it's an i
 
 ![](png/tax-grid.png)
 
-### May
+### May (TBD)
 
-### June
+### June (TBD)
 
 ### July
 
 Dependencies are great for quick prototyping, but do you really need them all when you launch? Re-evaluate and potentially remediate dependencies in your project. 
 
 ![](png/dependencies-badge.png)
+
+### August (TBD)
+
+### September (TBD)
 
 ### October
 
