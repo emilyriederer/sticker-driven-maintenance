@@ -84,6 +84,8 @@ It's time for the fall harvest! If your work isn't on GitHub and optimized for d
 
 ![](png/holiday-lights-grid.png)
 
+![](png/ornaments-grid-full.png)
+
 ![](png/ornaments-grid.png)
 
 Is your code naughty or nice? You'll never know if you don't have unit tests.
