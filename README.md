@@ -64,6 +64,8 @@ Dependencies are great for quick prototyping, but do you really need them all wh
 
 Pumpkin patch - code patch. Need I say more?
 
+![](png/patch-grid-full.png)
+
 ![](png/patch-grid.png)
 
 ![](png/patch-grid-minimal.png)
