@@ -78,6 +78,10 @@ It's time for the fall harvest! If your work isn't on GitHub and optimized for d
 
 ![](png/harvest-badge.png)
 
+Alternatively, fall is also a great time for *branch pick-up* as the leaves fall. Consider raking your repo to clear up unused or outdated branches. This can eliminate confusion and help new maintainers join your project.
+
+![](png/rake-grid.png)
+
 ### December
 
 "Doc (deck) the halls" with documentation! 
