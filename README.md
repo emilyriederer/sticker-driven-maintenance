@@ -74,6 +74,8 @@ Pumpkin patch - code patch. Need I say more?
 
 It's time for the fall harvest! If your work isn't on GitHub and optimized for discoverability (README, Description, tags, etc.), harvest them off your hard-drive and bring them into a GitHub repo or org.
 
+![](png/harvest-grid-full.png)
+
 ![](png/harvest-grid.png)
 
 ![](png/harvest-badge.png)
